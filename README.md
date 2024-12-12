@@ -1,7 +1,5 @@
 Pest Detection using QCNN (Quantum Convolutional Neural Network)
 This project implements pest detection using a hybrid classical-quantum model, focusing on Quantum Convolutional Neural Networks (QCNN) for image classification. The QCNN is used to detect pests from agricultural images and classify them into predefined categories.
-
-Project Overview
 The model uses classical preprocessing techniques and a quantum neural network component for improved performance. This approach aims to identify pests in crops and assist in early-stage detection for farmers.
 
 Features
